@@ -7,7 +7,7 @@
  */
 
 
-namespace shurup\helpers;
+namespace shurup;
 
 /**
  * @package     ImageHelper class
