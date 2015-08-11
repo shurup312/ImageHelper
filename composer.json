@@ -7,7 +7,7 @@
   },
   "autoload": {
     "psr-4": {
-      "helpers\\": "src/"
+      "shurup\\helpers\\": "src/"
     }
   }
 }
