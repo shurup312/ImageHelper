@@ -1,0 +1,13 @@
+{
+  "name": "shurup312/ImageHelper",
+  "type": "shurup312-package",
+  "description": "Image helper",
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "helpers\\": "src/"
+    }
+  }
+}
