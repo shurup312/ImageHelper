@@ -1,13 +1,13 @@
 <?php
 /**
  * User: Oleg Prihodko
- * Mail: shuru@e-mind.ru
+ * Mail: shurup@e-mind.ru
  * Date: 13.05.15
  * Time: 17:39
  */
 
 
-namespace system\core\helpers;
+namespace helpers;
 
 /**
  * @package     ImageHelper class
